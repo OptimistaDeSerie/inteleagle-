@@ -11,8 +11,7 @@ Objectives:
 
 **Methodology:**
 1.User-Centric Design: Begin with a thorough understanding of user requirements and workflows, ensuring the system is tailored to the needs of LEUs and CUs.
-
-2.Algorithm Development: Employ state-of-the-art facial recognition and license plate identification algorithms, leveraging machine learning and deep learning techniques for accuracy and efficiency.
+2. Algorithm Development: Employ state-of-the-art facial recognition and license plate identification algorithms, leveraging machine learning and deep learning techniques for accuracy and efficiency.
 3. System Architecture: Design a scalable and modular system architecture to support concurrent access, real-time processing, and seamless integration of new features.
 4. Data Management: Implement robust data management functionalities to enable LEUs to manage POIs and LOIs efficiently, including image and detail storage.
 5. Real-time Surveillance Integration: Integrate live video feed capabilities into the system, enabling LEUs to access and analyze video streams from designated IP cameras in real-time.
