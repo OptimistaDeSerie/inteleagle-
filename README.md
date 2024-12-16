@@ -1,6 +1,4 @@
 **Computer Vision Security System (INTEL-EAGLE PROJECT)**
-**Executive Summary**
-**Background:**
 Computer Vision is an advancing area in the world of information technology. It has revolutionized image and video analysis across industries. In response to evolving security challenges, the utilization of computer vision technologies has become increasingly imperative. Law enforcement agencies and civilians alike face the need for robust systems to enhance security and prevent crimes. Current methods for suspect identification and vehicle tracking often lack efficiency and real-time capabilities. Hence, the development of a comprehensive Computer Vision Security System is crucial to address these challenges.
 Objectives:
 1. Unified Interface: Develop a unified interface for both law enforcement users (LEUs) and civilian users (CUs) to access and utilize the computer vision system seamlessly.
